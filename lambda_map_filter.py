@@ -1,4 +1,5 @@
 #Lambda Expressions, Map & Filter functions
+#Lambda expressions are used to create small (one expression) functions without a name.
 
 def square(num):
     return num**2
